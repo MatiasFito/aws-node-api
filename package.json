@@ -1,0 +1,23 @@
+{
+  "name": "aws-node-api",
+  "version": "1.0.0",
+  "description": "Node API within a Docker container hosted in AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasFito/aws-node-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiasFito/aws-node-api/issues"
+  },
+  "homepage": "https://github.com/MatiasFito/aws-node-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
